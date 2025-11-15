@@ -42,7 +42,7 @@
 ---
 
 ## 🌐 Liên hệ
-- 📧 Email: [email của bạn]  
+- 📧 Email: [voty365@gmail.com]  
 - 🔗 GitHub: [github.com/vovanty0405](https://github.com/vovanty0405)  
 
 ---

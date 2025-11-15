@@ -1,0 +1,13 @@
+[
+    {
+        "ma": "TS001",
+        "ten": "Trà sữa Truyền thống",
+        "sanPhamList": [
+            {
+                "ma": "ts01",
+                "ten": "Thiết Quan Âm",
+                "donGia": 26000.0
+            }
+        ]
+    }
+]
